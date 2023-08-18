@@ -33,7 +33,7 @@ export default function Home() {
         <section className="min-h-screen">
           <nav className="py-10 mb-12 flex justify-between dark:text-white">
             <h1 className="font-burtons text-xl">
-              <Image src={logo} width={60} className="dark:invert"/>
+              <Image alt="developer" src={logo} width={60} className="dark:invert"/>
             </h1>
             <ul className="flex items-center">
               <li>
@@ -69,7 +69,7 @@ export default function Home() {
               <AiFillYoutube />
             </div>
             <div className="mx-auto bg-gradient-to-b from-teal-500 rounded-full w-64 h-64 relative overflow-hidden mt-20 md:h-96 md:w-96">
-              <Image src={deved} layout="fill" objectFit="cover" />
+              <Image alt="developer" src={deved} layout="fill" objectFit="cover" />
             </div>
           </div>
         </section>
@@ -91,7 +91,7 @@ export default function Home() {
           </div>
           <div className="lg:flex gap-10">
             <div className="text-center shadow-lg p-10 rounded-xl my-10  dark:bg-white flex-1">
-              <Image src={design} width={100} height={100} />
+              <Image alt="developer" src={design} width={100} height={100} />
               <h3 className="text-lg font-medium pt-8 pb-2  ">
                 Beautiful Designs
               </h3>
@@ -106,7 +106,7 @@ export default function Home() {
               <p className="text-gray-800 py-1">Indesign</p>
             </div>
             <div className="text-center shadow-lg p-10 rounded-xl my-10 dark:bg-white flex-1">
-              <Image src={code} width={100} height={100} />
+              <Image alt="developer" src={code} width={100} height={100} />
               <h3 className="text-lg font-medium pt-8 pb-2 ">
                 Code your dream project
               </h3>
@@ -121,7 +121,7 @@ export default function Home() {
               <p className="text-gray-800 py-1">Indesign</p>
             </div>
             <div className="text-center shadow-lg p-10 rounded-xl my-10 dark:bg-white flex-1">
-              <Image src={consulting} width={100} height={100} />
+              <Image alt="developer" src={consulting} width={100} height={100} />
               <h3 className="text-lg font-medium pt-8 pb-2 ">Consulting</h3>
               <p className="py-2">
                 Are you interested in feedback for your current project? I can
@@ -153,7 +153,7 @@ export default function Home() {
           </div>
           <div className="flex flex-col gap-10 py-10 lg:flex-row lg:flex-wrap">
             <div className="basis-1/3 flex-1 ">
-              <Image
+              <Image alt="developer"
                 className="rounded-lg object-cover"
                 width={"100%"}
                 height={"100%"}
@@ -162,7 +162,7 @@ export default function Home() {
               />
             </div>
             <div className="basis-1/3 flex-1">
-              <Image
+              <Image alt="developer"
                 className="rounded-lg object-cover"
                 width={"100%"}
                 height={"100%"}
@@ -171,7 +171,7 @@ export default function Home() {
               />
             </div>
             <div className="basis-1/3 flex-1">
-              <Image
+              <Image alt="developer"
                 className="rounded-lg object-cover"
                 width={"100%"}
                 height={"100%"}
@@ -180,7 +180,7 @@ export default function Home() {
               />
             </div>
             <div className="basis-1/3 flex-1">
-              <Image
+              <Image alt="developer"
                 className="rounded-lg object-cover"
                 width={"100%"}
                 height={"100%"}
@@ -189,7 +189,7 @@ export default function Home() {
               />
             </div>
             <div className="basis-1/3 flex-1">
-              <Image
+              <Image alt="developer"
                 className="rounded-lg object-cover"
                 width={"100%"}
                 height={"100%"}
@@ -198,7 +198,7 @@ export default function Home() {
               />
             </div>
             <div className="basis-1/3 flex-1">
-              <Image
+              <Image alt="developer"
                 className="rounded-lg object-cover"
                 width={"100%"}
                 height={"100%"}
