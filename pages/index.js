@@ -96,8 +96,7 @@ export default function Home() {
                 Beautiful Designs
               </h3>
               <p className="py-2">
-                Creating elegant designs suited for your needs following core
-                design theory.
+                Post Design.
               </p>
               <h4 className="py-4 text-teal-600">Design Tools I Use</h4>
               <p className="text-gray-800 py-1">Photoshop</p>
