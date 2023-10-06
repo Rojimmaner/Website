@@ -11,12 +11,12 @@ import code from "../public/code.png";
 import design from "../public/design.png";
 import consulting from "../public/consulting.png";
 import Image from "next/image";
-import web1 from "../public/web1.png";
-import web2 from "../public/web2.png";
-import web3 from "../public/web3.png";
-import web4 from "../public/web4.png";
-import web5 from "../public/web5.png";
-import web6 from "../public/web6.png";
+import p1 from "../public/p1.png";
+import p2 from "../public/p2.png";
+import p3 from "../public/p3.png";
+import p4 from "../public/p4.png";
+import p5 from "../public/p5.png";
+import p6 from "../public/p6.png";
 import logo from "../public/logo.png";
 
 export default function Home() {
@@ -157,8 +157,8 @@ export default function Home() {
                 className="rounded-lg object-cover"
                 width={"100%"}
                 height={"100%"}
-                layout="responsive"
-                src={web1}
+                
+                src={p1}
               />
             </div>
             <div className="basis-1/3 flex-1">
@@ -166,8 +166,8 @@ export default function Home() {
                 className="rounded-lg object-cover"
                 width={"100%"}
                 height={"100%"}
-                layout="responsive"
-                src={web2}
+                
+                src={p2}
               />
             </div>
             <div className="basis-1/3 flex-1">
@@ -175,8 +175,8 @@ export default function Home() {
                 className="rounded-lg object-cover"
                 width={"100%"}
                 height={"100%"}
-                layout="responsive"
-                src={web3}
+                
+                src={p3}
               />
             </div>
             <div className="basis-1/3 flex-1">
@@ -184,8 +184,8 @@ export default function Home() {
                 className="rounded-lg object-cover"
                 width={"100%"}
                 height={"100%"}
-                layout="responsive"
-                src={web4}
+                
+                src={p4}
               />
             </div>
             <div className="basis-1/3 flex-1">
@@ -193,8 +193,8 @@ export default function Home() {
                 className="rounded-lg object-cover"
                 width={"100%"}
                 height={"100%"}
-                layout="responsive"
-                src={web5}
+                
+                src={p5}
               />
             </div>
             <div className="basis-1/3 flex-1">
@@ -202,8 +202,8 @@ export default function Home() {
                 className="rounded-lg object-cover"
                 width={"100%"}
                 height={"100%"}
-                layout="responsive"
-                src={web6}
+                
+                src={p6}
               />
             </div>
           </div>
